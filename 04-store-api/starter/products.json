@@ -126,6 +126,7 @@
     "name": "a first wooden table",
     "price": 23,
     "featured": true,
-    "company": "caressa"
+    "company": "caressa",
+    "page": 2
   }
 ]
